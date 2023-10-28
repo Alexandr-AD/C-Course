@@ -1,0 +1,5 @@
+﻿  main.cpp
+G:\selfStudying\CppProjects\ConsoleCpp_1\main.cpp(76,12): warning C4018: >: несоответствие типов со знаком и без знака
+G:\selfStudying\CppProjects\ConsoleCpp_1\main.cpp(80,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\selfStudying\CppProjects\ConsoleCpp_1\main.cpp(101): warning C4715: reverse_num: значение возвращается не при всех путях выполнения
+  ConsoleCpp_1.vcxproj -> G:\selfStudying\CppProjects\ConsoleCpp_1\x64\Debug\ConsoleCpp_1.exe
